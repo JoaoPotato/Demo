@@ -1,1 +1,5 @@
 a file created via GitHub's web interface
+
+Hello from javaScript
+
+alert("Hello !");
